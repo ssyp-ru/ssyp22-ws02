@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "gfx.h": "c",
+        "logic.h": "c"
+    },
+    "gens.path": "c:\\sgdk\\gens\\gens.exe",
+    "GDK": "c:\\sgdk"
+}
